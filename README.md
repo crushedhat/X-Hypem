@@ -1,4 +1,4 @@
-X-Hypem
+<h1>X-Hypem</h1>
 This script downloads every song from the 'latest' section of hypem.com. 
 
 Install
