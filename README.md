@@ -16,14 +16,14 @@ Usage
 ----------
 X-Hypem will run with no parameters, ie:
 
-<code>perl hypem.pl</code>
+<code>perl x-hypem.pl</code>
 
 Additional:
 <ul>
 <li>This script is provided for educational purposes only. I don't take any responsibility for anything you do with 
 this.</li>
 </ul>
-All Ur Songs Belong To US!
+
 
 Best Regards,
 X-H
