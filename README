@@ -1,30 +1,27 @@
-<html>
-<h1>X-Hypem</h1>
+X-Hypem
 This script downloads every song from the 'latest' section of hypem.com. 
 
-<h2>Install</h2>
-<ul>
+Install
+-----------
 X-Hypem is a perl script that requires the following modules:
-<li>JSON</li>
-<li>LWP::UserAgent</li>
+* JSON
+* LWP::UserAgent
 
 You can install these modules with the following command using cpanm:
 
-<pre><code>
+<code>
 cpanm --sudo LWP::UserAgent JSON
-</code></pre>
+</code>
 
-<h2>Usage</h2>
-<ul>
-<p>X-Hypem will run with no parameters, ie:</p>
+Usage
+-----------
+X-Hypem will run with no parameters, ie:
 
-<pre><code>perl hypem.pl
-</code></pre>
+<code>perl hypem.pl</code>
 
-<ul>
 Additional:
-<li>This script is provided for educational purposes only. I don't take any responsibility for anything you do with 
-this.</li>
+* This script is provided for educational purposes only. I don't take any responsibility for anything you do with 
+this.
 
 All Ur Songs Belong To US!
 
