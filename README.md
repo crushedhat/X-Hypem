@@ -1,4 +1,7 @@
 <h1>X-Hypem</h1>
+
+Update: Hypem.com has currently changed some of their code. I am currently working on X-hypem to bring it back online.
+
 This script downloads every song from the 'latest' section of hypem.com. 
 
 Install
