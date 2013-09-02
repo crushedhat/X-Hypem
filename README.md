@@ -1,8 +1,8 @@
 <h1>X-Hypem</h1>
 
-Update: Hypem.com has currently changed some of their code. I am currently working on X-hypem to bring it back online.
+Update: X-hypem is currently up and running again.
 
-This script downloads every song from the 'latest' section of hypem.com. 
+X-hypem is a bulk perl scraper that allows you to download the songs from the main page of Hypem.com, genres, artist or songs specifically searched.
 
 Install
 ----------
@@ -10,7 +10,8 @@ Install
 X-Hypem is a perl script that requires the following modules:
 <li>JSON</li>
 <li>LWP::UserAgent</li>
-<li>use MP3::Tag</li>
+<li>use MP3::Tag</li> *Note: Not required at the moment.
+<li>HTTP::Cookies</li>
 </ul>
 You can install these modules with the following command using cpanm:
 
