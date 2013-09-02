@@ -15,7 +15,7 @@ X-Hypem is a perl script that requires the following modules:
 </ul>
 You can install these modules with the following command using cpanm:
 
-<code>cpanm --sudo LWP::UserAgent JSON MP3::Tag</code>
+<code>cpanm --sudo LWP::UserAgent JSON MP3::Tag HTTP::Cookies</code>
 
 Usage
 ----------
