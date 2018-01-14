@@ -2,7 +2,7 @@
 
 Update: X-hypem is currently up and running again.
 
-X-hypem is a bulk perl scraper that allows you to download the songs from the main page of Hypem.com, genres, artist or songs specifically searched.
+X-hypem is a bulk perl scraper that allows you to download the songs from the main page of Hypem.com, genres, artist or songs specifically searched. Additional, modification is required if you would like to query multiple pages.
 
 Install
 ----------
